@@ -1,0 +1,682 @@
+{
+  "result": {
+    "playlists": [
+      {
+        "id": 2786775395,
+        "name": "民谣一次听个够",
+        "coverImgUrl": "https://p1.music.126.net/AAwOOHEBHcb6LZfc6Guk-w==/109951164972146410.jpg",
+        "creator": {
+          "nickname": "痛打前女友",
+          "userId": 592464736,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 63,
+        "userId": 592464736,
+        "playCount": 16116448,
+        "bookCount": 153326,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "虽然有一些不属于民谣，但是也是非常值得一听的好歌",
+        "highQuality": false
+      },
+      {
+        "id": 498708023,
+        "name": "民谣200首【精选】",
+        "coverImgUrl": "https://p1.music.126.net/MFpiR-S03RVac8RyAgf8Qw==/3253454911828684.jpg",
+        "creator": {
+          "nickname": "秋白DW",
+          "userId": 347494430,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 192,
+        "userId": 347494430,
+        "playCount": 87308456,
+        "bookCount": 1463972,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "我想和你虚度时光\n比如低头看鱼\n比如把茶杯留在桌子上离开\n浪费它们好看的阴影\n我还想连落日一起浪费\n比如散步\n一直消磨到星光满天\n我还要浪费风起的时候\n坐在走廊发呆\n直到你眼中的乌云\n全部被吹到窗外\n―《我想和你虚度时光》",
+        "highQuality": false
+      },
+      {
+        "id": 2712709661,
+        "name": "民谣排行榜2020",
+        "coverImgUrl": "https://p1.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
+        "creator": {
+          "nickname": "铁匠铺的徒弟",
+          "userId": 1509776254,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 72,
+        "userId": 1509776254,
+        "playCount": 3549340,
+        "bookCount": 31417,
+        "specialType": 0,
+        "officialTags": null,
+        "description": null,
+        "highQuality": false
+      },
+      {
+        "id": 329641066,
+        "name": "烟酒嗓与民谣儿°",
+        "coverImgUrl": "https://p1.music.126.net/8wp_ZAJBd5PCgS9Qbv_4_Q==/18885211718773193.jpg",
+        "creator": {
+          "nickname": "烟酒嗓与民谣儿",
+          "userId": 261785671,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 182,
+        "userId": 261785671,
+        "playCount": 46212556,
+        "bookCount": 631756,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "还是安静的听首歌吧、想说的都在歌里面",
+        "highQuality": false
+      },
+      {
+        "id": 805664586,
+        "name": "那些听不腻的民谣",
+        "coverImgUrl": "https://p1.music.126.net/XqkmOHC04MLAcfpEkQIwGQ==/18511377767200974.jpg",
+        "creator": {
+          "nickname": "中意陳伊森",
+          "userId": 448528907,
+          "userType": 204,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 529,
+        "userId": 448528907,
+        "playCount": 13138106,
+        "bookCount": 175716,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "就让这时光别停留，就让这姑娘别回头，就让这昨夜醉酒的人呐，别再泪流，就让这昨夜流泪的人呐，别再难受。",
+        "highQuality": false
+      },
+      {
+        "id": 2770902965,
+        "name": "民谣排行榜",
+        "coverImgUrl": "https://p1.music.126.net/wldFtES1Cjnbqr5bjlqQbg==/18876415625841069.jpg",
+        "creator": {
+          "nickname": "彼岸有妖830524",
+          "userId": 1822032636,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 296,
+        "userId": 1822032636,
+        "playCount": 7620842,
+        "bookCount": 78865,
+        "specialType": 0,
+        "officialTags": null,
+        "description": null,
+        "highQuality": false
+      },
+      {
+        "id": 2777203544,
+        "name": "烟嗓 民谣 翻唱",
+        "coverImgUrl": "https://p1.music.126.net/qnMGyYFfJQrWvNNcTywr_A==/109951164307558999.jpg",
+        "creator": {
+          "nickname": "小張阿姨zz",
+          "userId": 126870432,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 423,
+        "userId": 126870432,
+        "playCount": 2721725,
+        "bookCount": 25870,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "集烟嗓民谣翻唱抖音热歌于一体的小杂单~",
+        "highQuality": false
+      },
+      {
+        "id": 750393793,
+        "name": "小酒馆里的民谣",
+        "coverImgUrl": "https://p1.music.126.net/THc3gmjGEmSK2edueqtsWw==/109951165219368998.jpg",
+        "creator": {
+          "nickname": "小小高爱吃糖",
+          "userId": 359904556,
+          "userType": 204,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 597,
+        "userId": 359904556,
+        "playCount": 1089110,
+        "bookCount": 11812,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣很文艺，\n可小酒馆里的酒都不便宜。\n就像是我们稍不努力，\n连情怀都养不起。",
+        "highQuality": false
+      },
+      {
+        "id": 2836847625,
+        "name": "网络热歌抖音民谣",
+        "coverImgUrl": "https://p1.music.126.net/RcFwo4lLVunS-CCwQg-JBA==/109951164899073965.jpg",
+        "creator": {
+          "nickname": "海绵musician",
+          "userId": 1875849748,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 183,
+        "userId": 1875849748,
+        "playCount": 169611,
+        "bookCount": 1543,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "一定要陪着自己的女孩子长大，不要再用道理让她长大了。",
+        "highQuality": false
+      },
+      {
+        "id": 455754938,
+        "name": "民谣/孤独患者",
+        "coverImgUrl": "https://p1.music.126.net/_GZZUgQA9CPe_ZC7X-NXvw==/109951164815324419.jpg",
+        "creator": {
+          "nickname": "s孙末",
+          "userId": 306948836,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 644,
+        "userId": 306948836,
+        "playCount": 22499934,
+        "bookCount": 309074,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣陪你度过春夏秋冬。",
+        "highQuality": false
+      },
+      {
+        "id": 311692545,
+        "name": "【民谣盛宴】100首必听欧美民谣",
+        "coverImgUrl": "https://p1.music.126.net/69UvJeww927sMtnjfwlO0Q==/1371091002111924.jpg",
+        "creator": {
+          "nickname": "pure日月",
+          "userId": 897345,
+          "userType": 200,
+          "authStatus": 0,
+          "expertTags": [
+            "轻音乐",
+            "世界音乐",
+            "古典"
+          ],
+          "experts": {
+            "2": "生活图文达人"
+          }
+        },
+        "subscribed": false,
+        "trackCount": 100,
+        "userId": 897345,
+        "playCount": 28003294,
+        "bookCount": 613012,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣是什么？\n民谣是一壶酒\n我有一壶酒，足以慰风尘。\n民谣是什么？\n民谣是一朵花，\n你若是盛开，清风自会来。\n喜欢民谣，民谣像是一位说书人，不紧不慢的讲述曾经那动人的故事。\n现在，就让我们来倾听欧美的民谣故事吧！\n\n",
+        "highQuality": true
+      },
+      {
+        "id": 2465422774,
+        "name": "花粥-民谣女流氓",
+        "coverImgUrl": "https://p1.music.126.net/Xhc7R_5VoRdhyEBfqbRQNw==/109951164065060774.jpg",
+        "creator": {
+          "nickname": "阿悠悠You_",
+          "userId": 249810913,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 248,
+        "userId": 249810913,
+        "playCount": 11954470,
+        "bookCount": 163839,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "花粥是一名优秀的少先队员，英雄联盟召唤师，完全贯彻社会主义核心价值观的神秘地下音乐工作者。2012年独自异军突起的清新派民谣歌手，来自新疆，就读于长沙某高校的普通大学生。在同学们着迷流行音乐，花枝招展的勾搭小伙子时，花粥已经抱着一把杂牌吉他创造了中国民谣歌手的诸多新纪录。",
+        "highQuality": false
+      },
+      {
+        "id": 395336617,
+        "name": "民谣不止安和桥",
+        "coverImgUrl": "https://p1.music.126.net/k7lBxKE8kLXKdXnjJBOiGA==/3261151495529677.jpg",
+        "creator": {
+          "nickname": "宠虫华",
+          "userId": 71272920,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 116,
+        "userId": 71272920,
+        "playCount": 2097022,
+        "bookCount": 27352,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "你可以听很丧的歌 但我拜托你 看看外面的太阳 星星月亮 行人 树木 花香 棉花糖 雨滴 动物 看到这个世界也是亮晶晶的",
+        "highQuality": false
+      },
+      {
+        "id": 2415644088,
+        "name": "抖音推荐民谣歌单",
+        "coverImgUrl": "https://p1.music.126.net/9dtnQz7PFaC4wzWWIKYuyg==/109951164028831182.jpg",
+        "creator": {
+          "nickname": "小八书生",
+          "userId": 259857085,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 43,
+        "userId": 259857085,
+        "playCount": 910226,
+        "bookCount": 7794,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "总有一首民谣能拨动你的心弦",
+        "highQuality": false
+      },
+      {
+        "id": 3132483720,
+        "name": "超好听的民谣呀",
+        "coverImgUrl": "https://p1.music.126.net/jxxF7TydiNZDiQ-JnZosUQ==/109951164575374655.jpg",
+        "creator": {
+          "nickname": "我鲁班不坑",
+          "userId": 1534351300,
+          "userType": 200,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 81,
+        "userId": 1534351300,
+        "playCount": 776536,
+        "bookCount": 6942,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "听不懂民谣的人都很幸运吧",
+        "highQuality": false
+      },
+      {
+        "id": 113628993,
+        "name": "【民谣】民谣是毒也是药",
+        "coverImgUrl": "https://p1.music.126.net/dcEGW81J16j4uy_Z-G4q_g==/3397490931543372.jpg",
+        "creator": {
+          "nickname": "零下Young",
+          "userId": 54278024,
+          "userType": 200,
+          "authStatus": 0,
+          "expertTags": [
+            "华语",
+            "流行",
+            "欧美"
+          ],
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 112,
+        "userId": 54278024,
+        "playCount": 14051127,
+        "bookCount": 167204,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "如果安静的述说可以感动世界，那么浅浅的吟唱一定会让世界沉寂；如果世界真的可以沉寂，那它一定是要让我们记得，记得那个声音，记得那一首首歌。",
+        "highQuality": false
+      },
+      {
+        "id": 2979314208,
+        "name": "民谣是枪，孤独上膛",
+        "coverImgUrl": "https://p1.music.126.net/c1FJDWwOM0-lkY-pe0fD2w==/109951164356885175.jpg",
+        "creator": {
+          "nickname": "曲投投音乐",
+          "userId": 1597884573,
+          "userType": 4,
+          "authStatus": 1,
+          "expertTags": null,
+          "experts": {
+            "1": "音乐视频达人"
+          }
+        },
+        "subscribed": false,
+        "trackCount": 109,
+        "userId": 1597884573,
+        "playCount": 10298321,
+        "bookCount": 118048,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "愿你的冬天永远不缺暖阳\n愿你的明天不在经历雨打风霜\n愿你的未来永远热泪盈眶",
+        "highQuality": false
+      },
+      {
+        "id": 2543121075,
+        "name": "民谣 烟嗓",
+        "coverImgUrl": "https://p1.music.126.net/RJh6BulLj3ZvHUjXrxslCw==/109951164522684499.jpg",
+        "creator": {
+          "nickname": "查不着的名称",
+          "userId": 1597352383,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 107,
+        "userId": 1597352383,
+        "playCount": 21007,
+        "bookCount": 228,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "喜欢烟嗓喜欢民谣喜欢吉他",
+        "highQuality": false
+      },
+      {
+        "id": 2164024891,
+        "name": "民谣排行榜2018",
+        "coverImgUrl": "https://p1.music.126.net/34YW1QtKxJ_3YnX9ZzKhzw==/2946691234868155.jpg",
+        "creator": {
+          "nickname": "强林弹雨",
+          "userId": 1389711720,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 88,
+        "userId": 1389711720,
+        "playCount": 2457152,
+        "bookCount": 15514,
+        "specialType": 0,
+        "officialTags": null,
+        "description": null,
+        "highQuality": false
+      },
+      {
+        "id": 416559809,
+        "name": "「民谣」民谣是唱给自己的歌。",
+        "coverImgUrl": "https://p2.music.126.net/L1jK12rO5nI3mGbOUb-u1g==/109951164516121937.jpg",
+        "creator": {
+          "nickname": "李俊达Alon",
+          "userId": 128206529,
+          "userType": 4,
+          "authStatus": 1,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 481,
+        "userId": 128206529,
+        "playCount": 9457325,
+        "bookCount": 96514,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "慢慢失去睡眠的资格，熬夜变成唯一的快乐",
+        "highQuality": false
+      },
+      {
+        "id": 2565238682,
+        "name": "【民谣】你听的民谣里有多少故事",
+        "coverImgUrl": "https://p2.music.126.net/WasaP3tj8ye7DAES-opRfg==/109951165603789115.jpg",
+        "creator": {
+          "nickname": "君遥姑娘",
+          "userId": 506376091,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 318,
+        "userId": 506376091,
+        "playCount": 3744924,
+        "bookCount": 38965,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "活在民谣里的爱情好看的让人落泪\n可惜却给不了你天长地久里 一粥一茶\n民谣没有声色犬马\n没有灯红酒绿\n有的只是四海为家各安天下\n民谣不是首歌\n它存在的意义不是让你多喜欢它\n多感同身受\n而是教会你该如何过自己的生活\n民谣很穷\n一听就是一个故事\n",
+        "highQuality": false
+      },
+      {
+        "id": 873387316,
+        "name": "民谣穷的只剩故事",
+        "coverImgUrl": "https://p2.music.126.net/Jy26ZbzS4ztfJCF68yj83w==/109951163973153432.jpg",
+        "creator": {
+          "nickname": "晚睡的小zz",
+          "userId": 562182367,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 99,
+        "userId": 562182367,
+        "playCount": 898269,
+        "bookCount": 8105,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣费烟，民谣费酒，穷的就剩那么一点情感和故事了",
+        "highQuality": false
+      },
+      {
+        "id": 4876701785,
+        "name": "民谣姑娘收录",
+        "coverImgUrl": "https://p2.music.126.net/1V4NtO48QSLDOth4W_GfSg==/109951164731614024.jpg",
+        "creator": {
+          "nickname": "宁也要努力",
+          "userId": 442168455,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 101,
+        "userId": 442168455,
+        "playCount": 2096559,
+        "bookCount": 27004,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "（持续更新ing……）",
+        "highQuality": false
+      },
+      {
+        "id": 3137769911,
+        "name": "【民谣】民谣不止南方与北方",
+        "coverImgUrl": "https://p2.music.126.net/zzTUwhg6si0bCiJAM--hFQ==/109951165339125769.jpg",
+        "creator": {
+          "nickname": "_南鸽先生_",
+          "userId": 1331544916,
+          "userType": 4,
+          "authStatus": 1,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 67,
+        "userId": 1331544916,
+        "playCount": 1158125,
+        "bookCount": 8142,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "在这个浮躁的年代，给流氓一把吉他吧，他们会把内心所有的美好和纯洁展现的玲离尽致————",
+        "highQuality": false
+      },
+      {
+        "id": 2967278822,
+        "name": "[民谣]民谣故事，理想、姑娘、诗和远方",
+        "coverImgUrl": "https://p2.music.126.net/K49j2B3pqm5ndKed5d-Hiw==/109951164574230351.jpg",
+        "creator": {
+          "nickname": "送酒十五",
+          "userId": 1313516553,
+          "userType": 4,
+          "authStatus": 1,
+          "expertTags": [
+            "民谣"
+          ],
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 91,
+        "userId": 1313516553,
+        "playCount": 2591143,
+        "bookCount": 30129,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣有三：理想、姑娘、诗和远方。\n我有故事和你讲",
+        "highQuality": false
+      },
+      {
+        "id": 4863433103,
+        "name": "抖音民谣歌曲",
+        "coverImgUrl": "https://p2.music.126.net/wbgjFkueX8ygIe2FputfFw==/109951164915313783.jpg",
+        "creator": {
+          "nickname": "昧oi",
+          "userId": 1864388158,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 94,
+        "userId": 1864388158,
+        "playCount": 163072,
+        "bookCount": 2872,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "如果有一天\n你开始后悔放弃我\n请记得\n我从未想用离开的方式\n教会你如何去珍惜……",
+        "highQuality": false
+      },
+      {
+        "id": 4933525161,
+        "name": "民谣｜小众很好听的民谣",
+        "coverImgUrl": "https://p2.music.126.net/O7Wy1c5a50BISTAowflw5A==/109951164849745202.jpg",
+        "creator": {
+          "nickname": "叶逐天",
+          "userId": 1723648164,
+          "userType": 204,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 106,
+        "userId": 1723648164,
+        "playCount": 47257,
+        "bookCount": 698,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "民谣很穷，一把吉他。\n民谣很富，四海为家。\n民谣是故事，是经历。\n民谣唱出了这个浮华的年代理纯真的爱情以及歌手对自己梦想纯真的追求。",
+        "highQuality": false
+      },
+      {
+        "id": 2441395188,
+        "name": "欧美民谣，异国民谣，北欧民谣",
+        "coverImgUrl": "https://p2.music.126.net/JJRx0uqm3PDN4DQIKRv4LA==/109951163651162700.jpg",
+        "creator": {
+          "nickname": "爱过258",
+          "userId": 583781477,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 1062,
+        "userId": 583781477,
+        "playCount": 185306,
+        "bookCount": 2940,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "【 民 谣 盛 宴 】 必 听 .......... 欧美民谣 + 北欧民谣 + 异国民谣 等.................",
+        "highQuality": false
+      },
+      {
+        "id": 377828753,
+        "name": "民谣吉他开口跪",
+        "coverImgUrl": "https://p2.music.126.net/nLgyTRS1QRHbpZh5l7G4Ow==/109951162926527213.jpg",
+        "creator": {
+          "nickname": "在路上ylr",
+          "userId": 267758663,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 338,
+        "userId": 267758663,
+        "playCount": 2982573,
+        "bookCount": 31415,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "走心的民谣听众 冰叔的读者 生活简单 不善言辞",
+        "highQuality": false
+      },
+      {
+        "id": 2964136330,
+        "name": "民谣丨孤独成瘾",
+        "coverImgUrl": "https://p2.music.126.net/DaJIzjM2BSw0oxL1YCrHWw==/109951164374648702.jpg",
+        "creator": {
+          "nickname": "乍见之欢_SU",
+          "userId": 87420167,
+          "userType": 0,
+          "authStatus": 0,
+          "expertTags": null,
+          "experts": null
+        },
+        "subscribed": false,
+        "trackCount": 163,
+        "userId": 87420167,
+        "playCount": 4629155,
+        "bookCount": 47749,
+        "specialType": 0,
+        "officialTags": null,
+        "description": "累吗\n别太认真\n别太想要",
+        "highQuality": false
+      }
+    ],
+    "playlistCount": 500
+  },
+  "code": 200
+}
