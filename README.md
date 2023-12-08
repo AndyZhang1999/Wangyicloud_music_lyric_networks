@@ -18,13 +18,15 @@ The project utilized these libraries: BeautifulSoup, lxml, requests, wordcloud, 
 
 Starting from this concept, I first wrote a crawler script. After completing the crawler, I developed a main program to run the crawler and download playlist information. The saved CSV looked like this:
 
-![CSV Example](image-20200223150250918.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/d8be3d25-7065-4b95-8913-de12e43f9427)
+
 
 Next, I wrote a data visualization program and linked it with the crawler in the main program. After extensive debugging, the program successfully ran.
 
 The results were word clouds filtered through a stop word list.
 
-![Word Cloud](image-20200224212514172.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/da52ddc8-84ce-4cac-af5f-f825221e89cf)
+
 
 The analysis revealed a prevalence of emotive onomatopoeia and interjections. Here are some examples:
 
@@ -32,7 +34,8 @@ The analysis revealed a prevalence of emotive onomatopoeia and interjections. He
 
 Curiously, the word "da" appeared frequently. Upon investigation, I found it in a particular song:
 
-![Song Example](image-20200224002730017.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/9752096c-2ee5-4df1-9539-bf1af8821d03)
+
 
 ...
 
@@ -40,7 +43,8 @@ This might suggest that the popularity of these songs is due to their use of pri
 
 After filtering out these interjections:
 
-![Filtered Word Cloud](image-20200224212840916.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/0fa1b424-2a57-4904-a168-e586f5ddfb3b)
+
 
 The words "baby" and "world" were the most frequent, followed by "time," "love," "maybe," "future," "leave."
 
@@ -66,11 +70,13 @@ Here are the results for different genres:
 
 I crawled the top 50 "rock" playlists (by popularity), totaling 6215 songs. Of these, 478 had no lyrics, leaving 5737 valid entries.
 
-![Rock Word Cloud](image-20200224220812489.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/fe137ca6-09fc-4e41-81b8-4612761391e7)
+
 
 After filtering out interjections:
 
-![Filtered Rock Word Cloud](image-20200224221356112.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/09661abe-28be-4403-ad1d-4cfa4b91ba2b)
+
 
 It seems "time" and "love" are prevalent in rock, along with "baby," "come back," "life," "feel," "heart," "night"—a narrative in an English context. In Chinese lyrics, the themes aren't as apparent; further analysis is needed.
 
@@ -85,11 +91,13 @@ Top 20 words in rock:
 
 For "folk," I analyzed the top 50 playlists, with 6506 songs. Excluding 564 songs without lyrics, 5942 entries were valid.
 
-![Folk Word Cloud](image-20200225004811710.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/3c8232b3-3e5f-4a7c-83c8-e861aa9eb110)
+
 
 After removing interjections:
 
-![Filtered Folk Word Cloud](image-20200225005756964.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/3c3e62d3-4e14-4f52-8383-99a276b75e06)
+
 
 "Folk" songs frequently mentioned "world" and "love," followed by "girl," "life," "leave."
 
@@ -104,22 +112,25 @@ Top 20 words in folk:
 
 For "rap," I crawled the top 50 playlists, amounting to 11438 songs. Of these, 7374 had no lyrics, leaving 4064 valid entries.
 
-![Rap Word Cloud](image-20200225003346657.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/598b389d-1ea4-47ff-ab1c-78b3c442b257)
+
 
 After removing interjections:
 
-![Filtered Rap Word Cloud](image-20200225002013991.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/60b64d7e-6471-479f-8b64-ade6619832bd)
+
 
 "Love" was predominant, followed by "baby," "back." Regardless of the language or genre, everyone seems concerned about "time."
 
-![Filtered Non-English Rap Word Cloud](image-20200225024053290.png)
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/064fc9a8-b5a8-44bf-993e-258f00c95a3d)
 
 Top 20 words in rap:
 
-| Top 1-10 | Count | Top 11-20 | Count |
-| :----- | ----: | :------ | ----: |
-| نى     | 2136 | 喜欢    | 1112 |
-| ...    |  ... | ...     |  ... |
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/06611460-e19a-464d-8d40-996f3fb68b6d)
+
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/4ac6065a-4cb2-4020-8005-e2e25b901dae)
+
+![image](https://github.com/AndyZhang1999/Wangyicloud_music_lyric_networks/assets/90740478/3e6406ee-8f38-40af-87e3-1d79e43a49a8)
 
 ## Part III
 
