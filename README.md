@@ -4,7 +4,7 @@ This crawler efficiently retrieves song lyrics and displays high-frequency lyric
 
 # What Are the Hot Songs on Wangyi Cloud Music? A Python Exercise
 
-> Keywords: Data Visualization, Data Analysis, Python Crawler
+> Keywords: Social Networks, Data Analysis, Python Crawler
 
 ## Part I
 
