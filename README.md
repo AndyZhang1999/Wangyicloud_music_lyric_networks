@@ -8,8 +8,6 @@ This crawler efficiently retrieves song lyrics and displays high-frequency lyric
 
 ## Part I
 
-As a novice in Python, I've embarked on a small project to apply my burgeoning skills. The best way to learn a language is through practice, and completing a project offers a sense of achievement.
-
 My objective was to discover the themes of popular songs on NetEase Cloud Music. To access the hot songs, I first thought of crawling NetEase playlists. Fortunately, NetEase Cloud Music features a playlist (Cloud Music Hot Song List) specifically for current popular songs.
 
 To determine the themes, I turned to the lyrics. Each song title in the playlist page links to its page, where I could programmatically access each song's lyrics. Since lyrics are not directly crawlable from the song page, I had to find the NetEase Cloud API. Each song has a unique ID that specifies its lyric link. The final output is a table of 200 songs including their IDs, titles, links, and lyrics, saved as a CSV file locally.
