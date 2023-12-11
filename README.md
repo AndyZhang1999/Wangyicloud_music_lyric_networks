@@ -2,7 +2,7 @@
 
 This crawler efficiently retrieves song lyrics and displays high-frequency lyrics in a word cloud. The specific parameters can be set in the settings.
 
-# What Are the Hot Songs on NetEase Cloud Music? A Python Exercise
+# What Are the Hot Songs on Wangyi Cloud Music? A Python Exercise
 
 > Keywords: Data Visualization, Data Analysis, Python Crawler
 
